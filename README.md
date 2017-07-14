@@ -1,1 +1,1 @@
-# JavaFx---Calculator
+# JavaFx-Calculator
