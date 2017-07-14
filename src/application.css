@@ -1,0 +1,34 @@
+.text-area {
+    -fx-text-fill: #ffffff;
+	-fx-font-size: 30px;
+	-fx-font-family: "Century Gothic";
+}
+
+.text-area .content {
+	-fx-background-color: #003459;
+}
+
+.text-area *.text {
+	-fx-text-alignment: right;
+}
+
+.button{
+    -fx-text-fill: #ffffff;
+    -fx-border-width: 0.8px;
+    -fx-border-color: white;
+    -fx-font-size: 19px;
+	-fx-font-family: "Century Gothic";
+	-fx-background-color: #9FB4C7
+}
+.button:pressed{
+    -fx-background-color: #003459;
+}
+
+.operators{
+    -fx-background-color: #00ABE7;
+
+}
+
+.clearify{
+    -fx-background-color:#003459;
+}
